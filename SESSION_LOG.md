@@ -5,6 +5,20 @@ Each entry records: date, agent, what was done, and resulting PRs.
 
 ---
 
+## 2026-09-10 — GPT/Codex
+
+**Repository onboarding documentation**
+
+| PR | Title | Status |
+|---|---|---|
+| [#3](https://github.com/flatdnc-blip/AI/pull/3) | Docs: add collaboration quick start | Open |
+
+What was done:
+- Added a concise GPT/Codex, Genspark, and new-agent quick-start guide to `README.md`
+- Recorded this session in `SESSION_LOG.md` as the repository's dedicated session-history location
+
+---
+
 ## 2026-09-10 — Claude (Claude Code)
 
 **First PRs and collaboration setup**
